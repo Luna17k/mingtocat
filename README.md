@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Mingtocat</strong>, a octocat in Ming Dynasty
+  <strong>Mingtocat</strong>, a emperor in Ming Dynasty
 </p>
 
 <br />
