@@ -24,4 +24,16 @@ There were two "ears" on the crown, and they were actually called "the Wing of W
 
 #### The Robe
 
-Besides yellow, purple robe was usually used in a informal occasion. At the shoulder, there were two seals, which were respectively represented for the Sun (日) with a red color and the Moon (月) with a white one.
+Besides yellow, purple robe was usually used in a informal occasion. At the shoulder, there were two seals, which were respectively represented for the Sun (日) with a red color in the left side and the Moon (月) with a white color in the right side. A pattern with four encircling dragons (團龍), which was always four, sometimes eight or twelve, were embroidered (繡於) at the middle position and two sleeves. How elegant they were. Notice that the white parts of the inside clothing would be shown a little outside the sleeves named "Chen Bai (襯擺)".
+
+#### The Inside Clothing
+
+The collar of the inside clothing was usually dressed into cross like the character `Y`, which was usually decorated with red or yellow color.
+
+#### The Belt
+
+The belt was mainly designed with jades, and its color was usually red or yellow. In China, this belt was called "Dai Ting (帶鞓)".
+
+#### The Shoes
+
+The shoes would always be a black boot named "Zao Boot (皂靴)".
