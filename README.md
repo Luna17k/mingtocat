@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <img alt="Lerna" src="./Mingtocat.gif" width="60%">
+  <img alt="Lerna" src="./preview.gif" width="60%">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 **Mingtocat** is a designed octocat with clothing of emperors in Ming Dynasty, and what we saw above is one of the informal uniforms. As an open source, Mingtocat is allowed to download in any picture format: [**SVG**](https://rawgit.com/aleen42/mingtocat/master/Mingtocat.svg) | [**PNG**](https://raw.githubusercontent.com/aleen42/mingtocat/master/Mingtocat.png) | [**GIF**](https://raw.githubusercontent.com/aleen42/mingtocat/master/Mingtocat.gif), but **business using must be refused**. What the purpose of designing is to make the history of Chinese clothing known by more people all over the world.
 
-According to some study, the clothing shown above arose during the later stage of the Ming. In this stage, color of the clothing was not only set as yellow, what we normally see. Not only the color, but also the usage of dermatoglyphic pattern (紋樣) has changed into various. This clothing has been designed based on the artifacts drawn in the picture, named "Ru Bi (入跸圖)". The whole clothing has been divided into five parts: the crown, the robe (袍), the inside clothing (中衣), the belt (帶), and the shoes.
+According to some study, the clothing shown above arose during the later stage of the Ming. In this stage, color of the clothing was not only set as yellow, what we normally see. Not only the color, but also the usage of dermatoglyphic pattern (紋樣) has changed into various. This clothing has been designed based on the artifacts drawn in the picture, named "Ru Bi (入跸圖)". The whole clothing has been divided into five parts: the crown, the robe (袍), the inside clothing (中衣), the belt (帶), and the boots.
 
 #### The Crown
 
@@ -34,6 +34,6 @@ The collar of the inside clothing was usually dressed into cross like the charac
 
 The belt was mainly designed with jades, and its color was usually red or yellow. In China, this belt was called "Dai Ting (帶鞓)".
 
-#### The Shoes
+#### The Boots
 
-The shoes would always be a black boot named "Zao Boot (皂靴)".
+The boots would always be black boots named "Zao Boots (皂靴)".
