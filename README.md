@@ -4,11 +4,12 @@
 <br />
 
 <p align="center">
-  <img alt="Lerna" src="./preview.gif" width="60%">
+    <img alt="mingtocat" src="./preview.gif" width="60%" />
+    <img alt="octocat" style="display:none;" src="./preview.gif" width="0%" />
 </p>
 
 <p align="center">
-  <strong>Mingtocat</strong>, an emperor in the Ming Dynasty of China
+    <strong>Mingtocat</strong>, an emperor in the Ming Dynasty of China
 </p>
 
 <br />
